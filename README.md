@@ -1,3 +1,3 @@
 # ted_web
 
-Ted x 2017 website
+Website for TEDxBMU 2017 . The project was completed wtih the help of Nirmal Dalmia and Akshat Mittal as contributors. 
